@@ -115,12 +115,12 @@
 
 <!-- VISITORS COUNT -->
 <div align="center">
-    <br>
-    <p align="center"><b>Visitors Count</b></p>  
-    <p align="center">
-     <img align="center" src="https://profile-counter.glitch.me/{yLeonardoDev}/count.svg" />
-    </p> 
-    <br>
+
+⏱️ **VISITAS NO PERFIL** ⏱️  
+<!-- Contador digital -->
+<img src="https://img.shields.io/badge/dynamic/json?color=0f0&label=VISITAS&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2FyLeonardoDev.readme.visits&labelColor=000&style=for-the-badge&logo=digitalocean&logoColor=white" alt="Contador Digital" />
+
+
 </div>
 
 <!-- FOOTER WAVE -->
