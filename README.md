@@ -6,16 +6,16 @@
 
 <!-- STATS SECTION -->
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=yLeonardo99&show_icons=true&count_private=true&hide_border=true&title_color=E745E5&icon_color=E745E5&text_color=c9d1d9&bg_color=0d1117" alt="Leonardo Cassiano github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yLeonardo99&layout=compact&hide_border=true&title_color=E745E5&text_color=E745E5&bg_color=0d1117&langs_count=10" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=yLeonardoDev&show_icons=true&count_private=true&hide_border=true&title_color=E745E5&icon_color=E745E5&text_color=c9d1d9&bg_color=0d1117" alt="Leonardo Cassiano github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yLeonardoDev&layout=compact&hide_border=true&title_color=E745E5&text_color=E745E5&bg_color=0d1117&langs_count=10" />
 </div>
 
 <!-- ACTIVITY GRAPH -->
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yLeonardo99&bg_color=27B3AA3&color=E745E5&line=7B3AA3&point=ab0303&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yLeonardoDev&bg_color=27B3AA3&color=E745E5&line=7B3AA3&point=ab0303&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!-- TROPHIES -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yLeonardo99&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=yLeonardoDev&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
  <!-- MAIN SKILLS -->
