@@ -14,9 +14,11 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yLeonardoDev&bg_color=27B3AA3&color=E745E5&line=7B3AA3&point=ab0303&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!-- TROPHIES -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yLeonardoDev&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
+<div align="center">
+  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yLeonardoDev&theme=dark&fire=FF5733&background=000000&locale=pt_BR)
+
+</div>
 
  <!-- MAIN SKILLS -->
  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
