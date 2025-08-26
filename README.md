@@ -118,7 +118,7 @@
     <br>
     <p align="center"><b>Visitors Count</b></p>  
     <p align="center">
-        <img align="center" src="https://profile-counter.glitch.me/{yleonardoDev}/count.svg" />
+     <img align="center" src="https://profile-counter.glitch.me/{yLeonardoDev}/count.svg" />
     </p> 
     <br>
 </div>
