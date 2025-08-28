@@ -2,26 +2,32 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3a0c5f&height=120&section=header&text=Leonardo+Cassiano&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
-<!-- TYPING EFFECT -->
+
+<!-- Efeito de Digitação | TYPING EFFECT -->
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8F41E8&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Leonardo+Cassiano;I'm+26+years+old;I+am+from+São+Paulo,+SP;I+study+analysis+and+systems+development;at+University+nove+de+julho;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-<!-- PROFILE VISITS  -->
+<!-- Contador de Visitas | PROFILE VISITS  -->
 
 <div align="center">
   <p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FyLeonardoDev&s=21&c=9745f5&bg=00000000&no=2&ff=digi&tb=Profile+Visits%3A++&ta=" /></p> 
 </div>
       
-<!-- STATS SECTION -->
+<!-- ESTATÍSTICAS | STATS SECTION -->
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=yLeonardoDev&show_icons=true&count_private=true&hide_border=true&title_color=purple&icon_color=8F41E8&text_color=c9d1d9&bg_color=0d1117" alt="Leonardo Cassiano github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yLeonardoDev&layout=compact&hide_border=true&title_color=purple&text_color=fff&bg_color=0d1117&langs_count=10" />
-</div>
+    <img
+    width="49%" height="195px"
+    alt="GitHub Stats"
+    src="https://github-readme-stats.vercel.app/api/?username=yLeonardoDev&show_icons=true&count_private=true&rank_icon=github&theme=midnight-purple&font=Iosevka"
+  />
+    <img alt="Linguagens utilizadas"
+    width="41%" height="192px"
+    alt="Top Language"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=yLeonardoDev&layout=compact&font=Iosevka&langs_count=16&theme=midnight-purple"
+  />
 
 <!-- ACTIVITY GRAPH -->
-
-<!-- [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yLeonardoDev&bg_color=27B3AA3&color=E745E5&line=7B3AA3&point=ab0303&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 
 <div align="center">
   <img
@@ -29,7 +35,6 @@
     src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yLeonardoDev&theme=midnight_purple"
   />
 </div>
-
 
 <!-- TROPHIES -->
 
@@ -42,25 +47,11 @@
     src="https://github-readme-streak-stats.herokuapp.com?user=yLeonardoDev&theme=midnight-purple&card_width=885"
   />
 
-<!--   
-  <img
-    height=175
-    align="center"
-    alt="GitHub Stats"
-    src="https://github-readme-stats.vercel.app/api/?username=yLeonardoDev&show_icons=true&count_private=true&rank_icon=github&theme=midnight-purple&font=Iosevka"
-  /> -->
-<!-- 
-  <img
-    align="center"
-    alt="Top Language"
-    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yLeonardoDev&theme=midnight_purple"
-  /> -->
-
 </div>
 
  <!-- MAIN SKILLS -->
  
- <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+ <img  alt="Linha RGB" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
 ###  Main skills:
 
@@ -69,22 +60,24 @@
   <a href="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CSS.svg" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CSS.svg" alt="CSS" width="40" height="40"/> </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/JavaScript.svg" alt="Javascript" width="40" height="40"/> </a>
   <a href="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/PHP-Dark.svg" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/PHP-Dark.svg" alt="PHP" width="40" height="40"/> </a>
+   <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/SQLite.svg" alt="SQLite" width="40" height="40"/> </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/MySQL-Dark.svg" alt="MySQL" width="40" height="40"/> </a>
    <a href="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Bootstrap.svg" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Bootstrap.svg" alt="Bootstrap" width="40" height="40"/> </a>
   <a href="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Sass.svg" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Sass.svg" alt="Sass" width="40" height="40"/> </a>
     <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Figma-Dark.svg" alt="Figma" width="40" height="40">
   </a>
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Photoshop.svg" />
   <a href="https://www.canva.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" alt="Canva" width="40" height="40">
   </a>
   </a>
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/SQLite.svg" alt="SQLite" width="40" height="40"/> </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/MySQL-Dark.svg" alt="MySQL" width="40" height="40"/> </a>
 
 </div>
 
  <!-- TOOLS SECTION -->
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+
+<img alt="Linha RGB" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
 ### Tools:
 
@@ -97,7 +90,8 @@
 </div>
 
  <!-- CURRENTLY LEARNING -->
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+
+<img alt="Linha RGB" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
 ### Studying in this moment:
 
@@ -116,7 +110,7 @@
 
  <!-- SOCIAL NETWORKS -->
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+<img alt="Linha RGB" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
 ### My Social Networks:
 
@@ -130,12 +124,6 @@
   <a href="https://www.instagram.com/cassiano_og/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Instagram.svg" alt="Instagram" width="40" height="40"/>
   </a>
-  <!-- <a href="https://www.tiktok.com/@yleonardo99" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" width="100" height="28"/>
-  </a>
-  <a href="https://www.twitch.tv/yjohnwick99" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch" width="100" height="28"/>
-  </a> -->
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
@@ -145,7 +133,6 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
 ### Até a próxima ✌️<br>
-
 
 <div style="display: flex; justify-content: space-between; align-items: center; margin-top: 20px;">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXY5bm9jNHZjaTdpcmV4eGxneWp5NWs0ZXdhaWpoYXJ2ODhjN2M0OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MfGOjkEtoyMgFcxCSz/giphy.webp" width="150">
@@ -162,10 +149,9 @@
  <div align="center">
   <p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FyLeonardoDev&s=21&c=9745f5&bg=00000000&no=2&ff=digi&tb=Profile+Visits%3A++&ta=" /></p> 
 </div>
-      
-
 
 </div>
 
 <!-- FOOTER WAVE -->
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7B3AA3&height=120&section=footer"/>
