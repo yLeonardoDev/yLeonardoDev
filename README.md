@@ -1,33 +1,27 @@
 <!-- CABEÇALHO -->
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3a0c5f&height=120&section=header&text=Leonardo+Cassiano&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=04a1a3b2&height=120&section=header&text=Leonardo+Cassiano&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
+<!-- TYPING EFFECT -->
 
-<!-- Efeito de Digitação | TYPING EFFECT -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=04a1a3b2&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Leonardo+Cassiano;I'm+26+years+old;I+am+from+São+Paulo,+SP;I+study+analysis+and+systems+development;at+University+nove+de+julho;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8F41E8&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Leonardo+Cassiano;I'm+26+years+old;I+am+from+São+Paulo,+SP;I+study+analysis+and+systems+development;at+University+nove+de+julho;Be+Welcome!+:%29)](https://git.io/typing-svg)
-
-<!-- Contador de Visitas | PROFILE VISITS  -->
+<!-- PROFILE VISITS  -->
 
 <div align="center">
-  <p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FyLeonardoDev&s=21&c=9745f5&bg=00000000&no=2&ff=digi&tb=Profile+Visits%3A++&ta=" /></p> 
+  <p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FyLeonardoDev&s=21&c=04a1a3b2&bg=00000000&no=2&ff=digi&tb=Profile+Visits%3A++&ta=" /></p> 
 </div>
       
-<!-- ESTATÍSTICAS | STATS SECTION -->
+<!-- STATS SECTION -->
 
 <div align="center">  
-    <img
-    width="49%" height="195px"
-    alt="GitHub Stats"
-    src="https://github-readme-stats.vercel.app/api/?username=yLeonardoDev&show_icons=true&count_private=true&rank_icon=github&theme=midnight-purple&font=Iosevka"
-  />
-    <img alt="Linguagens utilizadas"
-    width="41%" height="192px"
-    alt="Top Language"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=yLeonardoDev&layout=compact&font=Iosevka&langs_count=16&theme=midnight-purple"
-  />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=yLeonardoDev&show_icons=true&count_private=true&hide_border=true&title_color=04a1a3b2&icon_color=04a1a3b2&text_color=c9d1d9&bg_color=0d1117" alt="Leonardo Cassiano github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yLeonardoDev&layout=compact&hide_border=true&title_color=04a1a3b2&text_color=fff&bg_color=0d1117&langs_count=10" />
+</div>
 
 <!-- ACTIVITY GRAPH -->
+
+<!-- [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yLeonardoDev&bg_color=27B3AA3&color=E745E5&line=7B3AA3&point=ab0303&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 
 <div align="center">
   <img
@@ -35,6 +29,7 @@
     src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yLeonardoDev&theme=midnight_purple"
   />
 </div>
+
 
 <!-- TROPHIES -->
 
@@ -47,8 +42,24 @@
     src="https://github-readme-streak-stats.herokuapp.com?user=yLeonardoDev&theme=midnight-purple&card_width=885"
   />
 
+<!--   
+  <img
+    height=175
+    align="center"
+    alt="GitHub Stats"
+    src="https://github-readme-stats.vercel.app/api/?username=yLeonardoDev&show_icons=true&count_private=true&rank_icon=github&theme=midnight-purple&font=Iosevka"
+  /> -->
+<!-- 
+  <img
+    align="center"
+    alt="Top Language"
+    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yLeonardoDev&theme=midnight_purple"
+  /> -->
+
 </div>
 
+ <!-- MAIN SKILLS -->
+ 
  <!-- MAIN SKILLS -->
  
  <img  alt="Linha RGB" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
@@ -134,6 +145,7 @@
 
 ### Até a próxima ✌️<br>
 
+
 <div style="display: flex; justify-content: space-between; align-items: center; margin-top: 20px;">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXY5bm9jNHZjaTdpcmV4eGxneWp5NWs0ZXdhaWpoYXJ2ODhjN2M0OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MfGOjkEtoyMgFcxCSz/giphy.webp" width="150">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDRlMzdjN3VvOHc2Ymk4c3BsaWUwNzhoamY4cTlicHZpYmpkamVnayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="150">
@@ -147,11 +159,12 @@
 
  <br>
  <div align="center">
-  <p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FyLeonardoDev&s=21&c=9745f5&bg=00000000&no=2&ff=digi&tb=Profile+Visits%3A++&ta=" /></p> 
+  <p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FyLeonardoDev&s=21&c=04a1a3b2&bg=00000000&no=2&ff=digi&tb=Profile+Visits%3A++&ta=" /></p> 
 </div>
+      
+
 
 </div>
 
 <!-- FOOTER WAVE -->
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7B3AA3&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=04a1a3b2&height=120&section=footer"/>
