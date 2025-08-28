@@ -1,26 +1,63 @@
 <!-- CABEÇALHO -->
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7B3AA3&height=120&section=header&text=Leonardo+Cassiano&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3a0c5f&height=120&section=header&text=Leonardo+Cassiano&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
 <!-- TYPING EFFECT -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=E745E5&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Leonardo+Cassiano;I'm+26+years+old;I+am+from+São+Paulo,+SP;I+study+analysis+and+systems+development;at+University+nove+de+julho;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8F41E8&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Leonardo+Cassiano;I'm+26+years+old;I+am+from+São+Paulo,+SP;I+study+analysis+and+systems+development;at+University+nove+de+julho;Be+Welcome!+:%29)](https://git.io/typing-svg)
+
+<!-- PROFILE VISITS  -->
+
+<div align="center">
+  <p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FyLeonardoDev&s=21&c=9745f5&bg=00000000&no=2&ff=digi&tb=Profile+Visits%3A++&ta=" /></p> 
+</div>
+      
 <!-- STATS SECTION -->
+
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=yLeonardoDev&show_icons=true&count_private=true&hide_border=true&title_color=E745E5&icon_color=E745E5&text_color=c9d1d9&bg_color=0d1117" alt="Leonardo Cassiano github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yLeonardoDev&layout=compact&hide_border=true&title_color=E745E5&text_color=E745E5&bg_color=0d1117&langs_count=10" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=yLeonardoDev&show_icons=true&count_private=true&hide_border=true&title_color=purple&icon_color=8F41E8&text_color=c9d1d9&bg_color=0d1117" alt="Leonardo Cassiano github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yLeonardoDev&layout=compact&hide_border=true&title_color=purple&text_color=fff&bg_color=0d1117&langs_count=10" />
 </div>
 
 <!-- ACTIVITY GRAPH -->
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yLeonardoDev&bg_color=27B3AA3&color=E745E5&line=7B3AA3&point=ab0303&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<!-- [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yLeonardoDev&bg_color=27B3AA3&color=E745E5&line=7B3AA3&point=ab0303&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
+
+  <img
+    align="center"
+    alt="Top Language"
+    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yLeonardoDev&theme=midnight_purple"
+  />
 
 <!-- TROPHIES -->
+
 <div align="center">
-  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yLeonardoDev&theme=dark&fire=FF5733&background=000000&locale=pt_BR)
+
+ <img
+    height=154
+    align="center"
+    alt="Top Language"
+    src="https://github-readme-streak-stats.herokuapp.com?user=yLeonardoDev&theme=midnight-purple&card_width=885"
+  />
+
+<!--   
+  <img
+    height=175
+    align="center"
+    alt="GitHub Stats"
+    src="https://github-readme-stats.vercel.app/api/?username=yLeonardoDev&show_icons=true&count_private=true&rank_icon=github&theme=midnight-purple&font=Iosevka"
+  /> -->
+<!-- 
+  <img
+    align="center"
+    alt="Top Language"
+    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yLeonardoDev&theme=midnight_purple"
+  /> -->
 
 </div>
 
  <!-- MAIN SKILLS -->
+ 
  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
 ###  Main skills:
@@ -66,18 +103,17 @@
 
   <a href="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CS.svg" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CS.svg" alt="C#" width="40" height="40"/> </a>
   <a href="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Java-Dark.svg" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Java-Dark.svg" alt="Java" width="40" height="40"/> </a>
-  <a href="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/AWS-Dark.svg" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/AWS-Dark.svg" alt="AWS" width="40" height="40"/> </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>  <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a> 
   <a href="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Spring-Dark.svg" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Spring-Dark.svg" alt="Spring" width="40" height="40"/> </a>
   <a href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="40" height="40"/>
   </a>
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/PostgreSQL-Dark.svg" alt="PostgreSQL" width="40" height="40"/> </a>
 </div>
 
  <!-- SOCIAL NETWORKS -->
+
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
 ### My Social Networks:
@@ -89,15 +125,15 @@
   <a href="https://www.linkedin.com/in/leonardo-cassiano-435b62257/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/LinkedIn.svg" alt="Linkedin" width="40" height="40"/>
   </a>
-  <a href="https://www.instagram.com/p1csleo99/" target="_blank" rel="noreferrer">
+  <a href="https://www.instagram.com/cassiano_og/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Instagram.svg" alt="Instagram" width="40" height="40"/>
   </a>
-  <a href="https://www.tiktok.com/@yleonardo99" target="_blank" rel="noreferrer">
+  <!-- <a href="https://www.tiktok.com/@yleonardo99" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" width="100" height="28"/>
   </a>
   <a href="https://www.twitch.tv/yjohnwick99" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch" width="100" height="28"/>
-  </a>
+  </a> -->
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
@@ -106,21 +142,25 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%"><br>
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
-### Até a próxima 😆<br>
+### Até a próxima ✌️<br>
 
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 20px; margin-top: 20px;">
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 20px;">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXY5bm9jNHZjaTdpcmV4eGxneWp5NWs0ZXdhaWpoYXJ2ODhjN2M0OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MfGOjkEtoyMgFcxCSz/giphy.webp" width="150">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGhuOW5kY3VseDh5YWFnbjJlZ2MweXY2dnhpeDBteGY0M2lrd3R3OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4Zy8UHlDr6ZQunKhhp/giphy.webp" width="150">
 </div>
+
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
 <!-- VISITORS COUNT -->
+
 <div align="center">
 
-⏱️ **VISITAS NO PERFIL** ⏱️  
-<!-- Contador digital -->
-<img src="https://img.shields.io/badge/dynamic/json?color=0f0&label=VISITAS&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2FyLeonardoDev.readme.visits&labelColor=000&style=for-the-badge&logo=digitalocean&logoColor=white" alt="Contador Digital" />
+ <br>
+ <div align="center">
+  <p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FyLeonardoDev&s=21&c=9745f5&bg=00000000&no=2&ff=digi&tb=Profile+Visits%3A++&ta=" /></p> 
+</div>
+      
 
 
 </div>
