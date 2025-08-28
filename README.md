@@ -23,11 +23,13 @@
 
 <!-- [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yLeonardoDev&bg_color=27B3AA3&color=E745E5&line=7B3AA3&point=ab0303&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 
+<div align="center">
   <img
-    align="center"
     alt="Top Language"
     src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yLeonardoDev&theme=midnight_purple"
   />
+</div>
+
 
 <!-- TROPHIES -->
 
@@ -147,10 +149,10 @@
 
 <div style="display: flex; justify-content: space-between; align-items: center; margin-top: 20px;">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXY5bm9jNHZjaTdpcmV4eGxneWp5NWs0ZXdhaWpoYXJ2ODhjN2M0OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MfGOjkEtoyMgFcxCSz/giphy.webp" width="150">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDRlMzdjN3VvOHc2Ymk4c3BsaWUwNzhoamY4cTlicHZpYmpkamVnayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="150">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGhuOW5kY3VseDh5YWFnbjJlZ2MweXY2dnhpeDBteGY0M2lrd3R3OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4Zy8UHlDr6ZQunKhhp/giphy.webp" width="150">
-</div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" height = "50%">
 
 <!-- VISITORS COUNT -->
 
