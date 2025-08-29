@@ -6,11 +6,11 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=04a1a3b2&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Leonardo+Cassiano;I'm+26+years+old;I+am+from+São+Paulo,+SP;I+study+analysis+and+systems+development;at+University+nove+de+julho;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-<!-- PROFILE VISITS  -->
-
 <div align="center">
-  <p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FyLeonardoDev&s=21&c=04a1a3b2&bg=00000000&no=2&ff=digi&tb=Profile+Visits%3A++&ta=" /></p> 
-</div>
+
+  <b>`プログラマ`</b>
+
+  <br>
       
 <!-- STATS SECTION -->
       
